@@ -124,3 +124,6 @@ Hier werden Lösungsideen gesammelt, damit sie nicht verloren gehen. Sie werden 
 - Begriffe: **„Tai Chi“** überall dort, wo Neue suchen oder zuerst lesen (Titel, Überschriften, Google-Profil, Flyer). „Taiji / Taijiquan“ einmal als Brücke („Tai Chi, fachlich Taijiquan“) und in Fachtexten. Die Domain kann bleiben, eine zweite Domain mit „tai-chi“ könnte darauf weiterleiten. *Das entscheidet Ulrike.*
 - die Heldenreise als Erzählmuster für die Geschichte der Kundin nutzen
 - Startseiten-Texte neu schreiben
+- Übungsvideos in Stufen: Bronze (nur Ablauf), Silber (mit Hinweisen), Gold (Erspüren, innere Arbeit). Siehe [probleme.md](probleme.md), C3.
+
+Alle erkannten Probleme gesammelt: [probleme.md](probleme.md)
